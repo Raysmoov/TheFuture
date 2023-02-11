@@ -1,0 +1,35 @@
+.up { 
+  justify-content:space-evenly;
+  Display:flex; 
+}
+.top1st{
+  margin-bottom:200px;
+}
+  .lower{
+    justify-content:space-between;
+    width: 50%;
+    display:flex;
+}
+.minisun{
+  position: bottom-left;
+  font-size:40px;
+  width:30%;
+  border:solid;
+  padding:px;}
+
+.minimoon{
+  margin-bottom:110px;
+  border:solid;
+  width:30%;
+  height:50%;
+  
+}
+
+.Bblock{
+  border-right:solid;
+  
+}
+.broad{
+  border-right:solid;
+  font: bold;
+}
